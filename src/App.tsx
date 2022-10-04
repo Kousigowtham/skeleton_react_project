@@ -1,5 +1,7 @@
+import GeneralRouter from './routes/GeneralRouter';
+
 function App() {
-  return <div>Hello World</div>;
+  return <GeneralRouter />;
 }
 
 export default App;
